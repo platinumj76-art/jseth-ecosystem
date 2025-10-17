@@ -1,0 +1,25 @@
+{
+  "name": "jseth-ecosystem",
+  "version": "1.0.0",
+  "description": "Node.js backend for GENIUS Ecosystem by J-Seth Productions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "jseth",
+    "genius"
+  ],
+  "author": "Joshua Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.4.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^6.1.1",
+    "morgan": "^1.10.0"
+  }
+}
