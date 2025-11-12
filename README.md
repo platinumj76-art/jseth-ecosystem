@@ -1,7 +1,7 @@
-# jseth-ecosystem
+# J Seth Productions Genius Ecosystem
 “Creative economy engine by J Seth Productions — Node.js + SQLite app with global compliance, IP ownership, and automated content pipelines.”
-GENIUS Ecosystem — J Seth Productions
-Building the Creative Economy Engine By Joshua Anderson & J Seth Productions
+J Seth Productions 
+Building the Creative Economy Engine By Joshua Seth Anderson 
 
 🌐 Vision
 The GENIUS Ecosystem is a full‑stack Node.js platform designed to unify music, video, advertising, publishing, ticketing, merch, licensing, royalties, and investor dashboards into one seamless engine.
@@ -100,7 +100,7 @@ Disclaimers → /policies#disclaimers.
 Withdrawal of Consent supported.
 
 ⚖️ Terms of Use
-IP Ownership: All generated and uploaded content belongs to Joshua Anderson & J Seth Productions
+IP Ownership: All generated and uploaded content belongs to  J Seth Productions
 
 Royalties: 10% applied to all generated, uploaded, or downloaded content revenue.
 
@@ -109,7 +109,7 @@ Investor ROI: 30% by Year 3, 15% annually Y4–10, capped.
 Licensing: Commercial use requires written authorization.
 
 🔒 Confidentiality
-This repository and its contents are the confidential property of Joshua Anderson & J Seth Productions By accessing or using this codebase, you agree that:
+This repository and its contents are the confidential property of J Seth Productions By accessing or using this codebase, you agree that:
 
 All source code, documentation, and outputs remain J Seth Productions  
 
@@ -118,7 +118,7 @@ Unauthorized use, reproduction, or disclosure is prohibited.
 Access is provided solely for evaluation, collaboration, or investment purposes.
 
 ⚖️ Legal Notice
-All software, documentation, and generated content within this repository are the exclusive intellectual property of Joshua Anderson & J Seth Productions
+All software, documentation, and generated content within this repository are the exclusive intellectual property of  J Seth Productions
 
 Ownership: Any creative assets produced remain J Seth Productions 
 
@@ -128,31 +128,7 @@ Usage Rights: Commercial use requires explicit written authorization.
 
 Enforcement: Unauthorized use may result in legal action.
 
-🚀 Quick Start (Developers)
-Clone repo:
 
-bash
-git clone https://github.com/yourusername/jsethproductions-genius-ecosystem.git
-cd jsethproductions-genius-ecosystem
-Install dependencies:
 
-bash
-npm install
-Run server:
 
-bash
-node server.js
-Access endpoints:
 
-Home → /
-
-Dashboard → /dashboard
-
-Consent → /consent
-
-Policies → /policies
-
-Generators → /generate/ad, /generate/beat, /generate/lyric, /generate/video
-
-DAW Upload → /daw/upload
-View the GENIUS Ecosystem Investor Diagram
