@@ -1,18 +1,18 @@
 # jseth-ecosystem
-“Creative economy engine by J‑Seth Productions — Node.js + SQLite app with global compliance, IP ownership, and automated content pipelines.”
-GENIUS Ecosystem — J‑Seth Productions
-Building the Creative Economy Engine By Joshua Anderson & J‑Seth Productions
+“Creative economy engine by J Seth Productions — Node.js + SQLite app with global compliance, IP ownership, and automated content pipelines.”
+GENIUS Ecosystem — J Seth Productions
+Building the Creative Economy Engine By Joshua Anderson & J Seth Productions
 
 🌐 Vision
 The GENIUS Ecosystem is a full‑stack Node.js platform designed to unify music, video, advertising, publishing, ticketing, merch, licensing, royalties, and investor dashboards into one seamless engine.
 
-Every asset generated or uploaded is IP‑protected and carries a 10% royalty back to J‑Seth Productions, ensuring long‑term sustainability and value for creators, brands, and investors.
+Every asset generated or uploaded is IP‑protected and carries a 10% royalty back to J Seth Productions, ensuring long‑term sustainability and value for creators, brands, and investors.
 
 🎛️ Core Services
 1. Artist Management & Rollouts
 End‑to‑end rollout pipelines for artists (branding, press kits, campaigns).
 
-Publishing splits: 75% artist / 15% investors / 10% J‑Seth Productions (SAOMEI CAPS).
+Publishing splits: 75% artist / 15% investors / 10% J Seth Productions (SAOMEI CAPS).
 
 Distribution via Sony‑Orchard and other DSPs.
 
@@ -49,7 +49,7 @@ Content Creation (music, video, live events).
 
 Tickets & Merch:
 
-20% J‑Seth Productions
+20% J Seth Productions
 
 10% Vendors
 
@@ -82,7 +82,7 @@ Charts:
 
 ROI growth curves.
 
-Royalty inflows (10% J‑Seth).
+Royalty inflows 10% J Seth Productions
 
 IP asset growth metrics.
 
@@ -100,7 +100,7 @@ Disclaimers → /policies#disclaimers.
 Withdrawal of Consent supported.
 
 ⚖️ Terms of Use
-IP Ownership: All generated and uploaded content belongs to Joshua Anderson & J‑Seth Productions.
+IP Ownership: All generated and uploaded content belongs to Joshua Anderson & J Seth Productions
 
 Royalties: 10% applied to all generated, uploaded, or downloaded content revenue.
 
@@ -109,18 +109,18 @@ Investor ROI: 30% by Year 3, 15% annually Y4–10, capped.
 Licensing: Commercial use requires written authorization.
 
 🔒 Confidentiality
-This repository and its contents are the confidential property of Joshua Anderson & J‑Seth Productions. By accessing or using this codebase, you agree that:
+This repository and its contents are the confidential property of Joshua Anderson & J Seth Productions By accessing or using this codebase, you agree that:
 
-All source code, documentation, and outputs remain J‑Seth Productions IP.
+All source code, documentation, and outputs remain J Seth Productions  
 
 Unauthorized use, reproduction, or disclosure is prohibited.
 
 Access is provided solely for evaluation, collaboration, or investment purposes.
 
 ⚖️ Legal Notice
-All software, documentation, and generated content within this repository are the exclusive intellectual property of Joshua Anderson & J‑Seth Productions.
+All software, documentation, and generated content within this repository are the exclusive intellectual property of Joshua Anderson & J Seth Productions
 
-Ownership: Any creative assets produced remain J‑Seth Productions IP.
+Ownership: Any creative assets produced remain J Seth Productions 
 
 Royalty Terms: A 10% royalty applies to all revenue derived from generated, uploaded, or downloaded content.
 
@@ -132,8 +132,8 @@ Enforcement: Unauthorized use may result in legal action.
 Clone repo:
 
 bash
-git clone https://github.com/yourusername/jseth-ecosystem.git
-cd jseth-ecosystem
+git clone https://github.com/yourusername/jsethproductions-genius-ecosystem.git
+cd jsethproductions-genius-ecosystem
 Install dependencies:
 
 bash
